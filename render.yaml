@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: portfolio-recovery-agent
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: MASSIVE_API_KEY
+        sync: false
+      - key: PUSHOVER_APP_TOKEN
+        sync: false
+      - key: PUSHOVER_USER_KEY
+        sync: false
+      - key: PRIVATE_DASHBOARD_TOKEN
+        sync: false

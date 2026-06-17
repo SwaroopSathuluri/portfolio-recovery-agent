@@ -1,0 +1,19 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Private local config
+config/portfolio.json
+
+# Generated runtime data
+data/*.json
+data/*.jsonl
+data/alert_state.json
+data/forecasts/
+
+# Local logs and tunnel output
+*.log
+cloudflared_*.out.log
+cloudflared_*.err.log
+dashboard*.log

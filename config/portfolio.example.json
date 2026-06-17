@@ -1,0 +1,14 @@
+{
+  "account_name": "Brokerage",
+  "current_value": 0,
+  "initial_capital": 0,
+  "recovery_target": 0,
+  "recovery_months": 3,
+  "target_monthly_return_after_recovery_pct": 10,
+  "max_risk_per_trade_pct": 1,
+  "max_single_position_pct": 20,
+  "max_total_options_exposure_pct": 10,
+  "max_single_options_trade_pct": 2,
+  "minimum_reward_to_risk": 1.8,
+  "mode": "local_research"
+}

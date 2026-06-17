@@ -1,0 +1,18 @@
+{
+  "symbols": ["SPY", "QQQ"],
+  "breadth_symbols": ["SPY", "QQQ", "IWM", "XLK", "SMH", "XLF", "XLI"],
+  "bar_minutes": 5,
+  "opening_range_minutes": 30,
+  "breadth_above_vwap_required_pct": 60,
+  "pullback_tolerance_atr_pct": 0.25,
+  "loop_interval_minutes": 5,
+  "dashboard_url": "http://127.0.0.1:8010/",
+  "send_pushover": true,
+  "rules": {
+    "opening_range_confirmation": true,
+    "vwap_loss_exit": true,
+    "daily_20ema_reclaim": true,
+    "daily_50sma_failure_exit": true,
+    "chase_risk_warning": true
+  }
+}

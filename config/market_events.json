@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "date": "2026-06-16",
+      "name": "FOMC meeting day 1",
+      "source": "Federal Reserve",
+      "risk": "high",
+      "note": "Fed meeting begins. Avoid oversized entries before policy clarity."
+    },
+    {
+      "date": "2026-06-17",
+      "name": "FOMC statement and projections",
+      "source": "Federal Reserve",
+      "risk": "high",
+      "note": "Statement day with Summary of Economic Projections. Expect headline and rate-path volatility."
+    },
+    {
+      "date": "2026-06-24",
+      "name": "U.S. International Transactions and Investment Position",
+      "source": "BEA",
+      "risk": "medium",
+      "note": "Macro release at 8:30 AM ET."
+    },
+    {
+      "date": "2026-06-25",
+      "name": "GDP third estimate and Personal Income and Outlays",
+      "source": "BEA",
+      "risk": "high",
+      "note": "GDP, corporate profits, and May Personal Income and Outlays at 8:30 AM ET."
+    },
+    {
+      "date": "2026-07-14",
+      "name": "CPI release",
+      "source": "BLS",
+      "risk": "high",
+      "note": "June CPI release at 8:30 AM ET."
+    },
+    {
+      "date": "2026-07-15",
+      "name": "PPI release",
+      "source": "BLS",
+      "risk": "high",
+      "note": "June PPI release at 8:30 AM ET."
+    }
+  ]
+}

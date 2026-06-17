@@ -1,0 +1,42 @@
+{
+  "etfs": [
+    "SPY",
+    "QQQ",
+    "QQQM",
+    "VTI",
+    "VOO",
+    "SCHG",
+    "IWM",
+    "DIA",
+    "SMH",
+    "SOXX",
+    "XLK",
+    "XLF",
+    "XLE",
+    "XLI",
+    "XLY",
+    "XLC",
+    "XLV",
+    "TLT",
+    "GLD",
+    "ARKK",
+    "TQQQ"
+  ],
+  "stocks": [
+    "NVDA",
+    "MSFT",
+    "AAPL",
+    "AMZN",
+    "GOOGL",
+    "META",
+    "AVGO",
+    "AMD",
+    "TSLA",
+    "NFLX",
+    "COST",
+    "CRM",
+    "NOW",
+    "PANW",
+    "CRWD"
+  ]
+}
